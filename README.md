@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,50&height=300&section=header&text=Welcome!&fontAlignY=40&desc=Main6419%20GitHub%20Profile&descAlign=60&descAlignY=55&descSize=20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,50&height=300&section=header&text=Welcome&fontAlignY=40&desc=My%20GitHub%20Profile&descAlign=60&descAlignY=55&descSize=20&fontSize=70)
   
 <h3>🛠 Stack</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
