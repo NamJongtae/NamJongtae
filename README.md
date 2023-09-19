@@ -14,7 +14,7 @@
 <br/>
 
 <h3>🙋‍♂️ Contact Me </h3>
-<a href="https://velog.io/@main6419"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@main6419"/></a>&nbsp
+<a href="https://velog.io/@njt6419"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@main6419"/></a>&nbsp
 <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dark97370@gmail.com"/></a>
 
 <br/>
