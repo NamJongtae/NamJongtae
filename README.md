@@ -6,17 +6,29 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<br>
+
+<br/>
+
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+<br/>
+
 <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
+
+<br/>
+<br/>
+
+<h3>📖 My Record </h3>
+<a href="https://spotted-operation-dcc.notion.site/9ab6e74bcbcc4a33a8c210caf65eb13f?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
 <br/>
 <br/>
 
 <h3>🙋‍♂️ Contact Me </h3>
-<a href="https://velog.io/@njt6419"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@main6419"/></a>&nbsp
-<a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dark97370@gmail.com"/></a>
+<a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 <br/>
