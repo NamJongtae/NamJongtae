@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,50&height=200&section=header&text=Welcome&fontAlignY=30&desc=My%20GitHub%20Profile&descAlign=60&descAlignY=45&descSize=20&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,50&height=180&section=header&text=Welcome&fontAlignY=30&desc=My%20GitHub%20Profile&descAlign=60&descAlignY=45&descSize=20&fontSize=40)
   
 <h3>🛠 Stack</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -19,12 +19,13 @@
 <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
 
-
 <br/>
 <br/>
 
 <h3>📖 My Record </h3>
 <a href="https://spotted-operation-dcc.notion.site/9ab6e74bcbcc4a33a8c210caf65eb13f?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<br/>
+<a href="https://velog.io/@njt6419/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
 <br/>
 <br/>
