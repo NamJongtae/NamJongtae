@@ -30,6 +30,21 @@
 <br/>
 <br/>
 
+<h3><img align="center" height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Npm-logo_favicon.svg" width=25 /> Npm Package</h3>
+<h4>
+  <a href="https://www.npmjs.com/package/korean-dummy-json-fetcher"><img align="center" src="https://github.com/user-attachments/assets/9dee8371-1948-4595-9518-5dc67e269c37" width=250 /></a>
+</h4>
+<p>한국어 더미 데이터를 손쉽게 사용할 수 있는 라이브러리</p>
+<a href="https://www.npmjs.com/package/korean-dummy-json-fetcher">
+<img src="https://img.shields.io/npm/v/korean-dummy-json-fetcher?style=flat&logo=npm" alt="npm version"/>
+</a>
+<a href="https://npm-stat.com/charts.html?package=korean-dummy-json-fetcher">
+<img src="https://img.shields.io/npm/dt/korean-dummy-json-fetcher?style=flat" alt="npm downloads"/>
+</a>
+
+<br/>
+<br/>
+
 <h3>🙋‍♂️ Contact Me </h3>
 <img src="https://img.shields.io/badge/Gmail-dark9737@gmail.com-D14836?style=falt&logo=gmail&logoColor=D14836"/>
 
@@ -41,4 +56,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamJongtae&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamJongtae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-                
