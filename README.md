@@ -35,10 +35,6 @@
   <a href="https://www.npmjs.com/package/korean-dummy-json-fetcher"><img align="center" src="https://github.com/user-attachments/assets/6c81eb51-cd52-46c1-ab00-a263afb7e6b1" width=300 /></a>
 </h4>
 <p>한국어 더미 데이터를 손쉽게 사용할 수 있는 라이브러리</p>
-<a href="https://www.npmjs.com/package/korean-dummy-json-fetcher">
-<img src="https://img.shields.io/npm/v/korean-dummy-json-fetcher?style=flat&logo=npm" alt="npm version"/>
-</a>
-<br/>
 <a href="https://npm-stat.com/charts.html?package=korean-dummy-json-fetcher">
 <img src="https://img.shields.io/npm/dt/korean-dummy-json-fetcher?style=flat" alt="npm downloads"/>
 </a>
