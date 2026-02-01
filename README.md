@@ -48,14 +48,6 @@
 <br/>
 <br/>
 
-<h3>🅱️ My Blog</h3>
-<a href="https://velog.io/@njt6419">
-  <img src="https://velog-dashboard.kro.kr/badge?username=njt6419&type=simple&assets=views,likes,posts" width=350 />
-</a>
-
-<br/>
-<br/>
-
 <h3>👨‍💻 My GitHub Stats</h3> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NamJongtae&show_icons=true&theme=radical)
