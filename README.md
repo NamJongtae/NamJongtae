@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<h3 style="margin-bottom: 10px;"><img align="center" height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Npm-logo_favicon.svg" width=25 /> Npm Package</h3>
+<h3 style="margin-bottom: 10px;"><img align="center" height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Npm-logo_favicon.svg" width=25 />My Npm Package</h3>
 <h4>
   <a href="https://www.npmjs.com/package/korean-dummy-json-fetcher"><img align="center" src="https://github.com/user-attachments/assets/6c81eb51-cd52-46c1-ab00-a263afb7e6b1" width=300 /></a>
 </h4>
